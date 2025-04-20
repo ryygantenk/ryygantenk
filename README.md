@@ -1,28 +1,41 @@
-- hi bro, im owner companys'96 team
-  # TheCompany's Team In Here Bos!!
+<h1 align="center">🚀 Ryy Is Dev! 🚀</h1>
+<p align="center">
+  <i>"I'm still waiting for you here my ex, this is all because of you!"</i> <br> 
+  — <b>Ryy</b>
+</p>
 
-> "I'm still waiting for you here my ex, this is all thanks to you!" - Ryy
+---
 
-my skils 🚀🚀
-> Custom WhatsApp Library based on Baileys 🚀
-> Modded for advanced bot 🤖
-> functionality, internal relay 🦠
-> experiments, and better session handling. 🤖
-> Css++ 🚀
-> Html 🚀
-> Phyton 🐍
-> Java ☕
-> Javascript ⚕️
+### 🛠 My Skills
 
-## MY CREATED FITURE AND BOT 👾
-- Support multi-device WhatsApp ✅
-- Modded relayMessage dan bug injection ✅
-- To create a bot, you must verify the database and add it directly via the Telegram bot ✅
-- baileys node 6.7.1 ✅
-- Script bot telegram the X-neverdie 🐍
-- Script bot WhatsApp goku 🐍
-- Script bot WhatsApp the glitch ⚕️
-- Script bot WhatsApp super otsuna voltra 🦠
+🚀 Custom WhatsApp Library based on Baileys  
+🚀 Modded for advanced bot 🤖 functionality  
+🦠 Internal relay experiments  
+💥 Better session handling  
 
+**Languages & Tech:**
+- 🤖 Css++
+- 🚀 Html
+- 🐍 Python
+- ☕ Java
+- 🧬 Javascript
 
-— Contact : t.me/conquerryy
+---
+
+### 👾 My Created Features & Bots
+
+- ✅ Support multi-device WhatsApp  
+- ✅ Modded `relayMessage` dan bug injection  
+- ✅ WhatsApp bot verification via Telegram  
+- ✅ Baileys Node v6.7.1 support  
+- 🐍 Script bot Telegram: **X-neverdie**  
+- 🐍 Script bot WhatsApp: **Goku**  
+- 🧬 Script bot WhatsApp: **The Glitch**  
+- 🦠 Script bot WhatsApp: **Super Otsuna Voltra**
+
+---
+
+### 📡 Contact
+[Telegram](https://t.me/conquerryy)
+
+---
